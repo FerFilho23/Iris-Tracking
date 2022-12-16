@@ -12,7 +12,7 @@ git clone https://github.com/FerFilho23/Iris-Tracking.git
 ```
 
 ### For Pip install
-Install these dependencies (NumPy, OpenCV, Dlib):
+Install these dependencies (NumPy, OpenCV, Dlib, PyAutoGui):
 
 ```shell
 pip install -r requirements.txt
