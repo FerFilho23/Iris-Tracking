@@ -8,7 +8,7 @@ This is a Python OpenCV script capable of **webcam-based eye tracking**. It give
 Clone this project:
 
 ```shell
-git clone 
+git clone https://github.com/FerFilho23/Iris-Tracking.git
 ```
 
 ### For Pip install
