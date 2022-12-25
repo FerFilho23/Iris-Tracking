@@ -1,4 +1,5 @@
 numpy == 1.22.0
 opencv_python == 4.6.0.66
+cmake == 3.25.0
 dlib == 19.16.0
 pyautogui == 0.9.53
